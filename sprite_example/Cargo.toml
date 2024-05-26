@@ -1,0 +1,10 @@
+[package]
+name = "sprite_example"
+version = "0.1.0"
+edition = "2021"
+authors = ["iqpizza6349 <iqpizza6349@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+glium = "0.29.0"
+image = "0.23.14"
